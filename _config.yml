@@ -21,7 +21,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Vyliam's Blog                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -35,7 +35,7 @@ github:
   username: eguenzler            # change to your github username
 
 twitter:
-  username: Eric Guenzler            # change to your twitter username
+  username: EricGuenzler            # change to your twitter username
 
 social:
   # Change to your full name.
