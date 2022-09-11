@@ -21,7 +21,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vyliam's Blog                          # the main title
+title: Chirpy                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -32,20 +32,20 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://eguenzler.github.io'
 
 github:
-  username: eguenzler             # change to your github username
+  username: eguenzler            # change to your github username
 
 twitter:
-  username: EricGuenzler            # change to your twitter username
+  username: Eric Guenzler            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Eric Guenzler
+  email: eguenzler@proton.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/EricGuenzler      # change to your twitter homepage
-    - https://github.com/eguenzler      # change to your github homepage
+    - https://github.com/eguenzler       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/vyliam
