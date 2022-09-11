@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://eguenzler.github.io/vyliam-website/sitemap.xml
