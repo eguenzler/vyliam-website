@@ -41,3 +41,48 @@ Password: password123
 
 ![Meeting 1](/assets/img/NICE/2021/26/Meeting1.png)
 ![Meeting 2](/assets/img/NICE/2021/26/Meeting2.png)
+
+# NICE Framework & CAE KU Mapping
+
+## NICE Framework KSA
+A0123. Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+K0002. Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+K0003. Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+K0004. Knowledge of cybersecurity and privacy principles.
+K0005. Knowledge of cyber threats and vulnerabilities.
+K0009. Knowledge of application vulnerabilities.
+K0044. Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+K0167. Knowledge of system administration, network, and operating system hardening techniques.
+K0206. Knowledge of ethical hacking principles and techniques.
+K0342. Knowledge of penetration testing principles, tools, and techniques.
+S0044. Skill in mimicking threat behaviors.
+S0051. Skill in the use of penetration testing tools and techniques.
+
+## CAE Knowledge Units
+Cybersecurity Ethics
+Cybersecurity Foundations
+Cybersecurity Planning and Management
+Cybersecurity Principles
+Cyber Threats
+Penetration Testing
+Policy, Legal, Ethics, and Compliance
+Privacy
+Web Application Security
+
+# User Enumeration
+![AD01](/assets/img/NICE/2021/26/AD01.png)
+![AD02](/assets/img/NICE/2021/26/AD02.png)
+![AD03](/assets/img/NICE/2021/26/AD03.png)
+![AD04](/assets/img/NICE/2021/26/AD04.png)
+
+```
+asteele@prettysafeelectronics.io
+jsmith@prettysafeelectronics.io
+jraffing@prettysafeelectronics.io
+jcortes@prettysafeelectronics.io
+manderson@prettysafeelectronics.io
+nkeefe@prettysafeelectronics.io
+rcourtes@prettysafeelectronics.io
+skeefe@prettysafeelectronics.io
+tclark@prettysafeelectronics.io
+```
